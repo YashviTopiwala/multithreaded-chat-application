@@ -1,4 +1,4 @@
-## MULTITHREADED-CHAT-APPLICATION
+# MULTITHREADED-CHAT-APPLICATION
 
 **COMPANY:** CODTECH IT SOLUTIONS
 
@@ -128,5 +128,6 @@ Implementing multithreading in Java applications
 Managing communication between multiple users
 
 Building real-time chat systems using Java
+
 
 
