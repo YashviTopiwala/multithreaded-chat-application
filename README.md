@@ -23,7 +23,7 @@ Multithreading is implemented using the Thread class so that each connected clie
 
 This task helped in understanding how network communication works in Java, how servers manage multiple users simultaneously, and how multithreading improves the efficiency of client-server applications.
 
-🧠 CONCEPTS USED
+## CONCEPTS USED
 
 Operation | Class Used
 
@@ -128,3 +128,4 @@ Implementing multithreading in Java applications
 Managing communication between multiple users
 
 Building real-time chat systems using Java
+
