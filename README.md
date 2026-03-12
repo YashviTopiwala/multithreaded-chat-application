@@ -39,7 +39,7 @@ Multithreading | Thread Class
 
 Error Handling | Try-Catch (IOException)
 
-📂 PROJECT STRUCTURE
+## PROJECT STRUCTURE
 
 MultithreadedChatApp/
 
@@ -51,7 +51,7 @@ MultithreadedChatApp/
 
 └── README.md
 
-⚙️ FEATURES
+## FEATURES
 
 Client-server chat architecture
 
@@ -65,7 +65,7 @@ Broadcast messages to all connected users
 
 Exception handling implemented
 
-💻 TECHNOLOGIES / TOOLS USED
+## TECHNOLOGIES / TOOLS USED
 
 Java (JDK 8+)
 
@@ -87,7 +87,7 @@ Command Prompt / PowerShell
 
 Git & GitHub
 
-▶️ HOW TO RUN
+## HOW TO RUN
 
 Compile
 
@@ -101,7 +101,7 @@ Run Client (open multiple terminals)
 
 java ChatClient
 
-🧪 SAMPLE OUTPUT
+## SAMPLE OUTPUT
 
 Server Side
 
@@ -117,7 +117,7 @@ Client 2
 
 Hello everyone
 
-📘 LEARNING OUTCOME
+## LEARNING OUTCOME
 
 Understanding client-server architecture
 
@@ -128,4 +128,5 @@ Implementing multithreading in Java applications
 Managing communication between multiple users
 
 Building real-time chat systems using Java
+
 
